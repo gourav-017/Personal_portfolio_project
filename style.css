@@ -29,6 +29,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    
 }
 nav .logo{
         border-radius: 50%;
@@ -81,6 +82,12 @@ nav ul li a:hover::after{
 
     color:rgb(8, 242, 250)
 }
+.header-text h2{
+    
+    margin-top: 100px;
+    text-shadow: 5px 7px 5px 5px #086d9f;
+    
+}
 
 /* ------------CSS ABOUT------------- */
 #about{
@@ -107,14 +114,15 @@ nav ul li a:hover::after{
 .about-col-2 p{
     text-align:justify;
     text-align-last:left;
-    word-spacing: normal;
-    line-height: 1.0;
+    
+    line-height: 1.5;
     hyphens: auto;
 }
 .sub-title{
     font-weight: 600;
     font-size: 60px;
     color:#fff;
+    margin-bottom: 20px;
     
 }
 
