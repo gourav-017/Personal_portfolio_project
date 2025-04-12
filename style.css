@@ -75,16 +75,16 @@ nav ul li a:hover::after{
     font-size: 30px;
 }
 .header-text h1{
-    font-size: 60px;
+    font-size: 100px;
     margin-top: 20px;
 }
 .header-text h1 span{
 
     color:rgb(8, 242, 250)
 }
-.header-text h2{
+.header-text h3{
     
-    margin-top: 100px;
+    margin-top:20px;
     text-shadow: 5px 7px 5px 5px #086d9f;
     
 }
@@ -388,6 +388,7 @@ nav .fa-solid{
         margin-top: 10%;
         font-size:30px;
     }
+    
     nav .fa-solid{
         display: block;
         font-size: 25px;
